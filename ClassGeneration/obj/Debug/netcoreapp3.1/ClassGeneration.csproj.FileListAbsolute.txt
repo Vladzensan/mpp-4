@@ -1,0 +1,8 @@
+C:\5 semester\MPP\Lab_4\ClassGeneration\bin\Debug\netcoreapp3.1\ClassGeneration.deps.json
+C:\5 semester\MPP\Lab_4\ClassGeneration\bin\Debug\netcoreapp3.1\ClassGeneration.dll
+C:\5 semester\MPP\Lab_4\ClassGeneration\obj\Debug\netcoreapp3.1\ClassGeneration.AssemblyInfoInputs.cache
+C:\5 semester\MPP\Lab_4\ClassGeneration\obj\Debug\netcoreapp3.1\ClassGeneration.AssemblyInfo.cs
+C:\5 semester\MPP\Lab_4\ClassGeneration\bin\Debug\netcoreapp3.1\ClassGeneration.pdb
+C:\5 semester\MPP\Lab_4\ClassGeneration\obj\Debug\netcoreapp3.1\ClassGeneration.csproj.CoreCompileInputs.cache
+C:\5 semester\MPP\Lab_4\ClassGeneration\obj\Debug\netcoreapp3.1\ClassGeneration.dll
+C:\5 semester\MPP\Lab_4\ClassGeneration\obj\Debug\netcoreapp3.1\ClassGeneration.pdb
